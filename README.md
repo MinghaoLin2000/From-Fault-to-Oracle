@@ -1,4 +1,4 @@
-# EdgeTPU Firmware Recovery and Fault-Oracle Analysis Artifacts
+# CCS2026 Artifacts - From Fault to Oracle: Breaking Google Pixel TPU Hardware Memory Isolation via Trusted Deserialization Faults
 
 [Artifact Evaluation appendix (PDF)](ccs2026-ae-template.pdf) · [LaTeX source](ccs2026-ae-template.tex)
 
